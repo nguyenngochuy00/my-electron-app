@@ -14,7 +14,7 @@ module.exports = {
         options: {
           // An URL to an ICO file to use as the application icon (displayed in Control Panel > Programs and Features).
           iconUrl:
-            "https://raw.githubusercontent.com/nguyenngochuy00/my-electron-app/master/fpt_icon.ico",
+            "https://raw.githubusercontent.com/nguyenngochuy00/my-electron-app/master/assets/icons/fpt_logo.ico",
           // The ICO file to use as the icon for the generated Setup.exe
           setupIcon: "./assets/icons/fpt_logo.ico",
         },
