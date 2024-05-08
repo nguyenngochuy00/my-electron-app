@@ -40,13 +40,13 @@ module.exports = {
     //   // Path to the icon to use for the app in the DMG window
     //   name: "@electron-forge/maker-dmg",
     //   config: {
-    //     icon: "./assets/icons/chrome_icon.icns",
+    //     icon: "./assets/icons/fpt_logo.icns",
     //   },
     // },
     // {
     //   name: "@electron-forge/maker-wix",
     //   config: {
-    //     icon: "./assets/icons/chrome_icon.ico",
+    //     icon: "./assets/icons/fpt_logo.ico",
     //   },
     // },
   ],
